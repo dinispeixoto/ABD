@@ -1,3 +1,2 @@
 ## ABD
-
 Database Administration 
